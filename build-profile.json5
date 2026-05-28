@@ -1,24 +1,8 @@
 {
   "app": {
-    "signingConfigs": [
-      {
-        "name": "default",
-        "type": "HarmonyOS",
-        "material": {
-          "certpath": "C:\\Users\\Admin\\.ohos\\config\\default_WanAndroid_0VlHnu2oijYDgl5oQlK3Lar3onmlYmdeM2KFA-TBBH4=.cer",
-          "keyAlias": "debugKey",
-          "keyPassword": "0000001AAEF32EADA333869067BDC01000E635ACE37C1ED2FF493E7CB3E2223580D2A5B64E24974AF113",
-          "profile": "C:\\Users\\Admin\\.ohos\\config\\default_WanAndroid_0VlHnu2oijYDgl5oQlK3Lar3onmlYmdeM2KFA-TBBH4=.p7b",
-          "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\Admin\\.ohos\\config\\default_WanAndroid_0VlHnu2oijYDgl5oQlK3Lar3onmlYmdeM2KFA-TBBH4=.p12",
-          "storePassword": "0000001AC5568B9A98BC44DFB5CBA845E89B0C2AAAF4F2DE4B820C03683E37DF8D8685859F99B2B21A26"
-        }
-      }
-    ],
     "products": [
       {
         "name": "default",
-        "signingConfig": "default",
         "targetSdkVersion": "6.0.1(21)",
         "compatibleSdkVersion": "6.0.1(21)",
         "runtimeOS": "HarmonyOS",
